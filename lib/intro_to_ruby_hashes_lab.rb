@@ -12,7 +12,7 @@ end
 
 
 def id_hash_generator(number)
-  item = {key: number}
+  item = {number: "value"}
 end
 
 # return a hash with a key :id assigned to the provided number
